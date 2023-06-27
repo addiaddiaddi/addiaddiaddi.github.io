@@ -10,4 +10,3 @@ location: "Punta Cana, Dominican Republic"
 
 [Watch here](https://www.youtube.com/watch?v=evBPDbFR5Gk)
 
-talk description of infracon
