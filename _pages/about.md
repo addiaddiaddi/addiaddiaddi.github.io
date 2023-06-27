@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-See below and my CV to learn more about me and my academic/entrepreneurial endeavors! Feel free to reach out via email (spiegel1@mit.edu or addison@thunderhead.xyz). kick
+See below and my CV to learn more about me and my academic/entrepreneurial endeavors! Feel free to reach out via email (spiegel1@mit.edu or addison@thunderhead.xyz).
 
 
 Entrepreneurship
