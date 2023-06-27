@@ -27,7 +27,7 @@ Work experience
     * Entirely self-funded
     * Currently working on entering the [Lido](https://lido.fi) operator set and building a liquid staking token for [Chainflip](https://chainflip.io)
   * Thunderhead OTC (April 2021 - February '22)
-    * Created over-the-counter exchange for the trading of Pocket Network tokens
+    * Created over-the-counter exchange for the trading of [Pocket Network](https://pokt.network) tokens
     * Facilitated $50m in volume
     * 3000+ users from 70+ countries
   * [Thunderstake](https://thunderstake.io) (September 2021 - Present)
