@@ -14,7 +14,7 @@ Entrepreneurship
 ======
 I've been entreprenuerial since a young age. I seek problems and try to solve them with a business, at scale. I've had ~10 endeavors since I was a child - you can see most of them listed on my CV. Failing does not scare me, and no matter the outcome of a business, I consider it a learning lesson and a win. 
 
-My path since youth has been long and windy, but I'm currently working on Thunderhead, a blockchain services company and my largest endeavor yet. I lead a team of 6 and together we've been fortunate to service thousands of clients and handful of institutions across the globe. 
+My path since youth has been long and windy, but I'm currently working on Thunderhead, a blockchain services company and my largest endeavor yet. I lead a team of 6 and together we've been fortunate to service thousands of clients and a handful of institutions across the globe. 
 
 I plan to continue learning and building in perpetuity!
 
