@@ -32,6 +32,7 @@ Work experience
     * 3000+ users from 70+ countries
   * [Thunderstake](https://thunderstake.io) (September 2021 - Present)
     * Built out fully automated infrastructure monitoring and deployment system of validators
+    * Several institutional clients (1kx, Arrington Capital, Decentral Park Capital, + 5)
     * Peaked at $70m assets under management
   * [ThunderPOKT](https://thunderpokt.fi) (February 2022 - June 2023)
     * Innovative token backed 1:1 by staked POKT that earns protocol rewards
