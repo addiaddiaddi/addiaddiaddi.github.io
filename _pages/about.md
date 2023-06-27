@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-See below and my CV to learn more about me and my academic/entrepreneurial endeavors! Feel free to reach out via email (spiegel1@mit.edu or addison@thunderhead.xyz).
+I'm the CEO/Founder of [Thunderhead](https://thunderhead.xyz) and an incoming freshman (class of '27) to MIT! See below and my CV to learn more about me and my academic/entrepreneurial endeavors. Feel free to reach out via email (spiegel1@mit.edu or addison@thunderhead.xyz).
 
 
 Entrepreneurship
 ======
 I've been entreprenuerial since a young age. I seek problems and try to solve them with a business, at scale. I've had ~10 endeavors since I was a child - you can see most of them listed on my CV. Failing does not scare me, and no matter the outcome of a business, I consider it a learning lesson and a win. 
 
-My path since youth has been long and windy, but I'm currently the CEO/Founder of Thunderhead, a blockchain services company. I lead a team of 6 and together we've been fortunate to service thousands of clients and handful of institutions across the globe. 
+My path since youth has been long and windy, but I'm currently working on Thunderhead, a blockchain services company and my largest endeavor yet. I lead a team of 6 and together we've been fortunate to service thousands of clients and handful of institutions across the globe. 
 
 I plan to continue learning and building in perpetuity!
 
