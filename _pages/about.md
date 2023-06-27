@@ -28,9 +28,9 @@ There is of course a wide spectrum of human thought, but I seek a fundamental fr
 
 Aspirations
 ======
-Tiago Forte, a second-brain enthusiast, said we should "optimize a system outside of yourself, so you can remain happily unoptimized." In the same vein, I hope to build digital systems that complement human idiosyncrasies - blockchain-based governance/financial infrastructure and true second brain software.
+Tiago Forte, a second-brain enthusiast, said we should "optimize a system outside of yourself, so you can remain happily unoptimized." In the same vein, I aim to build digital systems that complement human idiosyncrasies - blockchain-based governance/financial infrastructure and true second brain software.
 
-I aspire to build many new products and services for the world. I hope to work in a variety of industries.
+I aspire to build many new products and services for the world and I plan to work in a variety of industries.
 
 Some of my more trivial aspirations include a music festival and a beach club! (I am an aesthetician as well)
 

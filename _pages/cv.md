@@ -36,7 +36,6 @@ Work experience
   * [ThunderPOKT](https://thunderpokt.fi) (February 2022 - June 2023)
     * Innovative token backed 1:1 by staked POKT that earns protocol rewards
     * 1300 users
-    * Developed in tandem with my brother
   * [Lean Pocket](https://leanpocket.xyz) (March 2022 - December 2022)
     * Ideated way to reduce Pocket Network infrastructure costs by order of magnitude by consolidating full nodes
     * Partnered with another community member to develop a solution
@@ -44,7 +43,7 @@ Work experience
   * Public Goods
     * [Hyperliquid Stats](https://hyperliquid.thunderhead.xyz)
       * Dashboard to display Hyperliquid network analytics like volume and users
-    * [PoktInfo](https://pokt.info) (May 2022 - June 2023)
+    * [PoktInfo](https://pokt.info) 
       * Comprehensive analytics solution for Pocket node runners to correlate location, latency, errors, and relays to their rewards.
     * [Pokt.Watch](https://pokt.watch)
       * Block explorer for the Pocket Network
