@@ -13,7 +13,7 @@ Education
 ======
 * Massachusetts Institute of Technology. Class of 2027
   * Currently planning to major in Computation and Cognition. Aiming to build digital systems to solve for human idiosyncrasies. Also interested in Math, Physics, Economics, Management and Design. 
-* St. John's High School. Class of 2023
+* High School. Class of 2023
   * Coursework includes Partial Differential Equations, Multivariable Calculus, Linear Algebra, Differential Equations, AP Physics, Engineering track.
   * Wrestling
     * Team Captain
