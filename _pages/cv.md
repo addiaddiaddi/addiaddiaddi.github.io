@@ -82,7 +82,7 @@ Work experience
   * Rented popular books that the library did not have to peers. 
   * Ended due to improper accounting for the fat-tail risk of clients losing books. 
 
-Accomplishments
+Other Accomplishments
 ======
 * Placed 2nd in the M3 Challenge, an international math modelling competition ([Team #16753](https://m3challenge.siam.org/node/620))
 * Saved $6m of user funds in the Curve Finance protocol through [two white-hats](https://addison.is/posts/curve-whitehat)
