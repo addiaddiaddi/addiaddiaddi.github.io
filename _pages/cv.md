@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+*last updated 8/28/2023.*  
 
+{% include base_path %}
 Education
 ======
 * Massachusetts Institute of Technology. Class of 2027

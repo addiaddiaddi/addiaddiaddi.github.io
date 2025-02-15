@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+*last updated 6/26/2023.*  
 I'm the CEO/Founder of [Thunderhead](https://thunderhead.xyz) and an incoming freshman (class of '27) to MIT! See below and my CV to learn more about me and my academic/entrepreneurial endeavors. Feel free to reach out via email (spiegel1@mit.edu or addison@thunderhead.xyz).
 
 
